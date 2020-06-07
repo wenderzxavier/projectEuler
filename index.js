@@ -5,8 +5,8 @@ readInputOption = () => {
     const solutionId = process.argv[2];
     console.log(solutionId);
 
-    if(solutionId){
-        switch(solutionId.toString()){
+    if (solutionId) {
+        switch (solutionId.toString()) {
             case '01':
                 solutions.solution01();
                 break;
@@ -15,6 +15,9 @@ readInputOption = () => {
                 break;
             case '03':
                 solutions.solution03();
+                break;
+            case '04':
+                solutions.solution04();
                 break;
             default:
                 console.log("Choose an option!");
