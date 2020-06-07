@@ -9,7 +9,7 @@ const solution03 = () => {
     const isDividesByPrime = (num, prime) => num % prime == 0
 
     const isPrime = num => {
-        for(let comparator = 2, s = Math.sqrt(comparator); i <= s; i++)
+        for(let comparator = 2; comparator < num; comparator++)
             if(num % comparator === 0) return false; 
         return num > 1;
     }
