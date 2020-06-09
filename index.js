@@ -31,6 +31,12 @@ readInputOption = () => {
             case '08':
                 solutions.solution08();
                 break;
+            case '09':
+                solutions.solution09();
+                break;
+            case '10':
+                solutions.solution10();
+                break;
             default:
                 console.log("Choose an option!");
         }
