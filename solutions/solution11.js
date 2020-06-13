@@ -1,6 +1,6 @@
 const solution11 = () => {
 
-    console.log("\nProblem 1:\nWhat is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in the 20×20 grid?");
+    console.log("\nProblem `11:\nWhat is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in the 20×20 grid?");
 
     let biggestValue = 0;
 
