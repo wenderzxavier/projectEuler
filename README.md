@@ -13,10 +13,10 @@ Fell free to take a look and improve them!
 
 |ID|Problem Name|Solution|
 |:-:|:-:|:-:|
-|  1 | Multiples of 3 and 5 | |
-|  2 |                      |          |
-|  3 |                      |          |
-
+|  1 | Multiples of 3 and 5 | [Solution](/solutions/solution01.js) |
+|  2 | Even Fibonacci numbers |          |
+|  3 | Largest prime factor |          |
+|  4 | Largest palindrome product | 
 ## License
 
 Copyright 2020 Wender Z. Xavier
