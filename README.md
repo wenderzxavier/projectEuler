@@ -13,20 +13,21 @@ Fell free to take a look and improve them! (I did not use the most effective app
 
 |ID|Problem Name|Solution|
 |:-:|:-:|:-:|
-| 01 | Multiples of 3 and 5 | [Solution 01](/solutions/solution01.js) |
-| 02 | Even Fibonacci numbers | [Solution 02](/solutions/solution02.js) |
-| 03 | Largest prime factor | [Solution 03](/solutions/solution03.js) |
-| 04 | Largest palindrome product | [Solution 04](/solutions/solution04.js) |
-| 05 | Smallest multiple | [Solution 05](/solutions/solution05.js) |
-| 06 | Sum square difference | [Solution 06](/solutions/solution06.js) |
-| 07 | 10001st prime | [Solution 07](/solutions/solution07.js) |
-| 08 | Largest product in a series | [Solution 08](/solutions/solution08.js) |
-| 09 | Special Pythagorean triplet | [Solution 09](/solutions/solution09.js) |
-| 10 | Summation of primes | [Solution 10](/solutions/solution10.js) |
-| 11 | Largest product in a grid | [Solution 11](/solutions/solution11.js) |
-| 12 | Highly divisible triangular number | [Solution 12](/solutions/solution12.js) |
-| 13 | Large sum | [Solution 13](/solutions/solution13.js) |
-
+| 01 | Multiples of 3 and 5 | [Solution](/solutions/solution01.js) |
+| 02 | Even Fibonacci numbers | [Solution](/solutions/solution02.js) |
+| 03 | Largest prime factor | [Solution](/solutions/solution03.js) |
+| 04 | Largest palindrome product | [Solution](/solutions/solution04.js) |
+| 05 | Smallest multiple | [Solution](/solutions/solution05.js) |
+| 06 | Sum square difference | [Solution](/solutions/solution06.js) |
+| 07 | 10001st prime | [Solution](/solutions/solution07.js) |
+| 08 | Largest product in a series | [Solution](/solutions/solution08.js) |
+| 09 | Special Pythagorean triplet | [Solution](/solutions/solution09.js) |
+| 10 | Summation of primes | [Solution](/solutions/solution10.js) |
+| 11 | Largest product in a grid | [Solution](/solutions/solution11.js) |
+| 12 | Highly divisible triangular number | [Solution](/solutions/solution12.js) |
+| 13 | Large sum | [Solution](/solutions/solution13.js) |
+| 14 | Longest Collatz sequence | [Solution](/solutions/solution14.js) |
+| 15 | Lattice paths | [Solution](/solutions/solution15.js) |
 ## Dependencies
 You must have [NodeJs](https://nodejs.org/en/) installed in your machine.
 
