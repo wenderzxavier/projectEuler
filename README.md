@@ -13,10 +13,20 @@ Fell free to take a look and improve them!
 
 |ID|Problem Name|Solution|
 |:-:|:-:|:-:|
-|  1 | Multiples of 3 and 5 | [Solution](/solutions/solution01.js) |
-|  2 | Even Fibonacci numbers |          |
-|  3 | Largest prime factor |          |
-|  4 | Largest palindrome product | 
+|  1 | Multiples of 3 and 5 | [Solution 01](/solutions/solution01.js) |
+|  2 | Even Fibonacci numbers | [Solution 02](/solutions/solution02.js) |
+|  3 | Largest prime factor | [Solution 03](/solutions/solution03.js) |
+|  4 | Largest palindrome product | [Solution 04](/solutions/solution04.js) |
+|  5 | Smallest multiple | [Solution 05](/solutions/solution05.js) |
+|  6 | Sum square difference | [Solution 06](/solutions/solution06.js) |
+|  7 | 10001st prime | [Solution 07](/solutions/solution07.js) |
+|  8 | Largest product in a series | [Solution 08](/solutions/solution08.js) |
+|  9 | Special Pythagorean triplet | [Solution 09](/solutions/solution09.js) |
+| 10 | Summation of primes | [Solution 10](/solutions/solution10.js) |
+| 11 | Largest product in a grid | [Solution 11](/solutions/solution11.js) |
+| 12 | Highly divisible triangular number | [Solution 12](/solutions/solution12.js) |
+| 13 | Large sum | [Solution 13](/solutions/solution13.js) |
+
 ## License
 
 Copyright 2020 Wender Z. Xavier
